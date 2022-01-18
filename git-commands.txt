@@ -1,0 +1,37 @@
+Git Coomands History
+
+1. git init  - initialize the git project 
+
+- Added required CSS and JavaScript Files
+
+2. git add .  - Added all files to the staging area (. will add all files to staging area)
+
+3. git status   - will show the status of files (whether added to staging area or not etc)
+
+4. git commit -m "First Commit" - Added First Commit 
+
+5. git log  - will display the commit logs 
+
+6. git remote -v    - to know the repos to push and pull from
+
+7. git remote add origin https://github.com/AKASHCS50/UI-project.git - To link the remote repository to the local project
+
+8. git remote -v    - to know the repos to push and pull from
+
+    origin  https://github.com/AKASHCS50/UI-project.git (fetch)
+    origin  https://github.com/AKASHCS50/UI-project.git (push)
+
+
+9. git push -u origin master  - To push the changes to the remote repo in a new master branch
+
+- Modified CSS file
+
+10. git add .  - Added all files to the staging area 
+
+11. git commit -m "Modified CSS file" - Added Second Commit 
+
+12. git push  - To push the changes to the remote repo
+
+- Modifed readme in remote repo
+
+13. 
